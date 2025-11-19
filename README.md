@@ -1,40 +1,113 @@
-# Project Name: Talent Trade
+# Talent Trade
+
+A modern community-driven skill-sharing platform where anyone can **offer skills**, **learn new skills**, and **connect locally** to grow together.
+
+![Project Screenshot](https://i.ibb.co.com/gZhQ3dnr/Screenshot-2025-11-18-183832.png)
 
 ---
 
-# Live URL : https://assignment-firebase-proj-12b15.web.app/
+## 🔗 Live Demo
+
+**Live URL:** [https://assignment-firebase-proj-12b15.web.app/](https://assignment-firebase-proj-12b15.web.app/)
 
 ---
 
-# Purpose
-The main goal of **Talent Trade** is to create a community-driven skill-sharing platform where people can:
-1.Offer their own expertise.
-2.Learn new skills from others.
-3.Connect locally and grow together.
+## 🎯 Purpose
+
+Talent Trade aims to build a platform where people can:
+
+* Offer their own expertise
+* Learn new skills from others
+* Connect with like-minded learners and grow together
 
 ---
 
-# Key Features
-1.Responsive navigation bar with login 
-2.User authentication with Firebase  
-3.Tooltip for user profile display  
-4.Toast notifications on login/logout  
-5.Animated mobile menu toggle  
-6.Modern UI with Tailwind CSS and Material Tailwind  
-7.Protected routes for logged-in users  
+## ⭐ Key Features
+
+* Responsive navigation bar with login system
+* Firebase authentication
+* Tooltip-based profile display
+* Toast notifications on login & logout
+* Animated mobile menu toggle
+* Protected routes for authenticated users
+* Modern and clean UI designed with Tailwind CSS & Material Tailwind
 
 ---
 
-## Technologies Used
-1.React JS 19
-2.Tailwind CSS
-3.Material Tailwind
-4.Lucide React
-5.React Hot Toast
-6.React Tooltip
-7.React Icons
-8.Firebase Auth
-9.React Router v7
-10.AOS / Framer Motion
-11.Axios
-12.Swiper JS
+## 🧰 Main Technologies
+
+* **React JS 19**
+* **Tailwind CSS**
+* **Material Tailwind**
+* **Firebase Authentication**
+* **React Router v7**
+
+---
+
+## 📦 Dependencies Used
+
+* React JS
+* Tailwind CSS
+* Material Tailwind
+* Lucide React
+* React Hot Toast
+* React Tooltip
+* React Icons
+* Firebase Auth
+* React Router v7
+* AOS / Framer Motion
+* Axios
+* Swiper JS
+
+---
+
+## ⚙️ How to Run Locally
+
+### 1️⃣ Clone the repository
+
+```
+git clone https://github.com/YOUR_REPO_LINK_HERE
+```
+
+### 2️⃣ Go inside the project folder
+
+```
+cd talent-trade
+```
+
+### 3️⃣ Install dependencies
+
+```
+npm install
+```
+
+### 4️⃣ Add Firebase credentials
+
+Create a `.env.local` file and add your Firebase configuration.
+
+### 5️⃣ Run the project
+
+```
+npm run dev
+```
+
+The project should now be running at:
+
+```
+http://localhost:5173/
+```
+
+---
+
+## 📎 Additional Links
+
+* Live Website
+* GitHub Repository
+* Demo Screenshots
+* Portfolio (optional)
+
+---
+
+### 📝 Overview
+
+**Talent Trade** is built with modern web development tools ensuring a fast, interactive, and visually appealing user experience. The project reflects strong frontend engineering, responsive design, and smooth user interaction.
