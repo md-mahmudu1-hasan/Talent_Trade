@@ -96,13 +96,6 @@ http://localhost:5173/
 
 ---
 
-## 📎 Additional Links
-
-* Live Website
-* GitHub Repository
-* Demo Screenshots
-* Portfolio (optional)
-
 ---
 
 ### 📝 Overview
