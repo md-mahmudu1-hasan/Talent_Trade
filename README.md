@@ -1,9 +1,6 @@
 # Talent Trade
 
 A modern community-driven skill-sharing platform where anyone can **offer skills**, **learn new skills**, and **connect locally** to grow together.
-
-![Project Screenshot](https://i.ibb.co.com/gZhQ3dnr/Screenshot-2025-11-18-183832.png)
-
 ---
 
 ## 🔗 Live Demo
