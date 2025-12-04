@@ -5,7 +5,7 @@ A modern community-driven skill-sharing platform where anyone can **offer skills
 
 ## 🔗 Live Demo
 
-**Live URL:** [https://assignment-firebase-proj-12b15.web.app/](https://assignment-firebase-proj-12b15.web.app/)
+**Live URL:** [https://assignment-firebase-proj-12b15.web.app/](https://talent-trade.netlify.app/)
 
 ---
 
